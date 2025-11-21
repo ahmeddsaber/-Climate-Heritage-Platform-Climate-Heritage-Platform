@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Archaeology Project\\Climate Heritage Platform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|d:\\archaeology project\\climate heritage platform\\infrastructure\\context\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|d:\\archaeology project\\climate heritage platform\\infrastructure\\context\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|d:\\archaeology project\\climate heritage platform\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BB5E25-A52F-4F78-837F-C40AE8812A54}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,21 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:58:40.299Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -103,7 +98,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\IdentitySeeder.cs",
+              "ToolTip": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\IdentitySeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:58:08.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\SeedData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\SeedData.cs",
+              "ToolTip": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\SeedData.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:54:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Archaeology Project\\Climate Heritage Platform\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:58:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Payment.cs",
@@ -115,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\Article.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Article.cs",
@@ -127,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DamageImage.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\DamageImage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\DamageImage.cs",
@@ -139,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ElementImage.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ElementImage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ElementImage.cs",
@@ -151,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
@@ -163,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ClimateData.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ClimateData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ClimateData.cs",
@@ -175,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SiteImage.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\SiteImage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\SiteImage.cs",
@@ -183,12 +217,11 @@
               "RelativeToolTip": "Domain\\Entities\\SiteImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwBMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:02:28.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T19:02:28.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ConservationPlan.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ConservationPlan.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ConservationPlan.cs",
@@ -196,12 +229,11 @@
               "RelativeToolTip": "Domain\\Entities\\ConservationPlan.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T18:56:40.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T18:56:40.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DamageReport.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\DamageReport.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\DamageReport.cs",
@@ -213,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HeritageSite.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\HeritageSite.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\HeritageSite.cs",
@@ -225,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PlanDocument.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\PlanDocument.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\PlanDocument.cs",
@@ -237,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlanProgress.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\PlanProgress.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\PlanProgress.cs",
@@ -249,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProgressImage.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ProgressImage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ProgressImage.cs",
@@ -261,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ArchitecturalElement.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ArchitecturalElement.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ArchitecturalElement.cs",
@@ -273,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
@@ -285,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\Archaeology Project\\Climate Heritage Platform\\Domain\\Enums\\Enums.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\Enums.cs",
